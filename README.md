@@ -1,6 +1,7 @@
 # Notch and Hole-Display Remover
 
 This magisk module provides the option to remove device display cutout (Notch and Hole-Display).
+
 Updated fork that supports newer devices with taller screens.
 
 ### Supports Android 14+ only.
