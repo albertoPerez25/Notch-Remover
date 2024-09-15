@@ -4,7 +4,7 @@ This magisk module provides the option to remove device display cutout (Notch an
 
 Updated fork that supports newer devices with taller screens.
 
-### Supports Android 14+ only.
+### Supports Android 14 qpr3 + only.
 
 Tested on Poco F5 / Redmi Note 12 Turbo.
 
